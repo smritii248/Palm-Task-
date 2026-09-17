@@ -1,4 +1,4 @@
-# PalmMind RAG Backend
+# RAG Backend
 
 A modular FastAPI backend implementing:
 
