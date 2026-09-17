@@ -11,8 +11,6 @@ A modular FastAPI backend implementing:
    structured booking details (name, email, date, time) from natural conversation and
    persists them to the database.
 
-No FAISS/Chroma is used (Qdrant only). No UI — this is API-only, exercised via
-`/docs` (Swagger) or curl/Postman.
 
 ---
 
